@@ -1,4 +1,4 @@
-package guru.springframework.msscbrewery;
+package tech.praveenst.msscbrewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
